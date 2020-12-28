@@ -23,11 +23,11 @@
 
 [Verificando que o dataset não ficou bom](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/EDA_df_sites_globo.ipynb)
 
-[Segunda tentativa](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/df_sites_globo2.csv)
+[Segunda tentativa](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo2.ipynb)
 
 ### Análise dos dados
 
-[Lidando com o dataleakage](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo2_stopwords.ipynb)
+[Lidando com o dataleakage](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/removendo_stopwords_df_sites_globo2.ipynb)
 
 [Criando o modelo de machine learning](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/Criando_modelo_final.ipynb)
 
