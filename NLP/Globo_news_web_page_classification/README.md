@@ -1,40 +1,38 @@
-# Introdução
+## :dart: Goals
 
-## Objetivo
+1. Collect text data from g1, ge and gshow websites
+2. Classify them according to their origin
 
-1. Coletar dados de textos dos sites g1,ge e gshow 
-2. Classificá-los quanto a sua origem
-
-## Fontes:
+## :mag_right: Sources:
 
 1. https://g1.globo.com/
 2. https://gshow.globo.com/
 3. https://globoesporte.globo.com/
 
-## Resultados:
+## :crystal_ball: Results:
 
-82% de acurácia com desvio padrão de 0.03
+82% accuracy with a standard deviation of 0.03
 
-# Etapas do projeto
+# :star2: steps
 
-### Extração dos dados 
+### :spider: Data extraction
 
-[Primeira tentativa](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo.ipynb)
+[First try](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo.ipynb)
 
-[Verificando que o dataset não ficou bom](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/EDA_df_sites_globo.ipynb)
+[Checking that the dataset was not good](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/EDA_df_sites_globo.ipynb)
 
-[Segunda tentativa](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo2.ipynb)
+[Second try](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/cria_df_sites_globo2.ipynb)
 
-### Análise dos dados
+### 	:diving_mask: Data Analysis
 
-[Lidando com o dataleakage](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/removendo_stopwords_df_sites_globo2.ipynb)
+[Handle with data leakage](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/removendo_stopwords_df_sites_globo2.ipynb)
 
-[Criando o modelo de machine learning](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/Criando_modelo_final.ipynb)
+[Create ML model](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/Criando_modelo_final.ipynb)
 
-### Extras
+### :space_invader: More
 
-[Teste de extração de dados](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/testes_de_extra%C3%A7%C3%A3o.ipynb)
+[Data extraction Test](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/testes_de_extra%C3%A7%C3%A3o.ipynb)
 
-[Análise dos textos nos títulos](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/analise_t%C3%ADtulo.ipynb)
+[Analysis of titles](https://github.com/Thiagodcfarias/Projetos-Data-Science/blob/main/NLP/Globo_news_web_page_classification/analise_t%C3%ADtulo.ipynb)
 
 
